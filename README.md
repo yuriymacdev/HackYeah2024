@@ -1,6 +1,6 @@
 # Tax Bot
 
-Currently using a statemachine with possible data validation instead of an llvm.
+Currently using a statemachine with possible data validation instead of an LLM.
 
 ## installation 
 ```
